@@ -1,21 +1,25 @@
 .container {
-	background-color: #997F36 ;
+	background-color: #BBA284 ;
 }
 .body {
-		background-color: #997F36 ;
+		background-color:#BBA284;
 
 }
 
 .col1 {
-	background-color: green;
+	background-color: #B68209;
 }
 .col2{
-	background-color: blue;
+	background-color: #820901;
 }
 .col3{
-		background-color: red;
+		background-color: #B68209;
 }
 
 .page-header {
 	background-color: ;
+}
+
+h1 {
+	color: ;
 }
