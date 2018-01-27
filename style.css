@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 .container {
 	background-color: #BBA284 ;
 	width: auto;
@@ -22,7 +24,15 @@ body {
 
 h1 {
 	color: ;
-	font-family: 'Tangerine', cursive;
-	font-size: 70px;
+	font-family: 'Montserrat', calibri;
+	font-size: 60px;
 
+}
+#soustitre{
+		font-family: 'Montserrat', calibri;
+	font-size: 16px;
+}
+
+#mycarousel{
+	size:  auto;
 }
