@@ -2,9 +2,8 @@
 	background-color: #BBA284 ;
 	width: fit-content;
 }
-.body {
-		background-color:#BBA284;
-
+body {
+		background-color:#ae906b;
 }
 
 .col1 {
@@ -23,4 +22,7 @@
 
 h1 {
 	color: ;
+	font-family: 'Tangerine', cursive;
+	font-size: 70px;
+
 }
