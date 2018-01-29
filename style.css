@@ -39,7 +39,13 @@ h1 {
 #hamburger {
 	color:red;
 }
-img {
-	max-height: 100%;
-	max-width: 100%;
+
+/* Set maximum size for images */
+	img{
+	    height: :100% ;
+	    max-height:400px ;
+	}
+
+.row {
+	margin: 10px;
 }
