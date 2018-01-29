@@ -7,7 +7,9 @@
 body {
 		background-color: #BBA284;
 }
-
+p {
+	font-family: 'Montserrat', serif;
+}
 .col1 {
 	background-color: #B68209;
 }
