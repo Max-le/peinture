@@ -20,8 +20,8 @@ p {
 		background-color: #B68209;
 }
 .jumbotron {
-
-		background-color: : #BBA284;
+background: url('img/skyline.jpg') no-repeat center center;
+		/* background-color: : #BBA284; */
 
 }
 h1 {
