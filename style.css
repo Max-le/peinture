@@ -65,13 +65,10 @@ a {
 .mail-col{
 	margin-bottom: 35px;
 }
-.fond {
- background: url('img/skyline-blur2.jpg')no-repeat center center /cover ;
 
-}
 .jumbotron {
  color: white; /* Le texte sera affiché en blanc */
  text-shadow: black 0.3em 0.3em 0.3em;
  background:transparent;
-
+ background: url('img/skyline-blur2.jpg')no-repeat center center /cover ;
 }
