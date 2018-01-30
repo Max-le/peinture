@@ -6,6 +6,10 @@ $(document).ready(function() {
 
   $("#description").fadeIn(5000);
   $(".row").fadeIn(1500);
+  $(".fond").fadeIn(1500);
+  $(".jumbotron").delay(1000).fadeIn(2000); 
+
+
   $(".galerie").fadeIn(2500);
 
 });
