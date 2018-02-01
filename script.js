@@ -4,7 +4,7 @@ console.log('Hello world !')
 $(document).ready(function() {
 
 
-  $(".galerie").fadeIn(2500);
+ $(".galerie").fadeIn(2500);
 
 });
 $(".jumbotron").ready(function() {

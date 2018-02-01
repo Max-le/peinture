@@ -85,3 +85,6 @@ min-height: 320px;
 	.jumbotron{min-height: 0px;}
 
 }
+.col-xs-12{
+	margin-bottom: 25px;
+}
