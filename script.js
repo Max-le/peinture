@@ -2,10 +2,17 @@ console.log('Hello world !')
 
 
 $(document).ready(function() {
-  $( "#hello" ).fadeIn(2000);
 
-  $("#description").fadeIn(5000);
-  $(".row").fadeIn(1500);
-  $(".galerie").fadeIn(2500);
 
+ $(".galerie").fadeIn(2500);
+
+});
+$(".jumbotron").ready(function() {
+console.log("Jumbotron ready !");
+
+$( "#hello" ).fadeIn(2000);
+
+$("#description").fadeIn(5000);
+
+$(".jumbotron").delay(1000).fadeIn(2000);
 });

@@ -19,17 +19,21 @@ p {
 .col3{
 		background-color: #B68209;
 }
-.jumbotron {
 
-		background-color: : #BBA284;
-
-}
 h1 {
 	color: ;
 	font-family: 'Montserrat', serif;
-	font-size: 58px;
+	font-size: 90px;
 	margin-bottom: 1px;
 
+}
+@media (max-width: 375px) {
+	h1 {
+		font-size: 40px;
+	}
+	#description{
+		font-size: 12px;
+	}
 }
 #soustitre{
 		font-family: 'Montserrat', calibri;
@@ -65,4 +69,22 @@ h1 {
 }
 a {
 	color: #3a3a3a;
+}
+.mail-col{
+	margin-bottom: 35px;
+}
+
+.jumbotron {
+ color:   #bfbfbf ; /* Le texte sera affiché en blanc */
+ text-shadow: black 0.3em 0.3em 0.3em;
+ background:transparent;
+ background: url('img/skyline-blur2.jpg')no-repeat center center /cover ;
+min-height: 320px;
+}
+@media (max-width:800px) {
+	.jumbotron{min-height: 0px;}
+
+}
+.col-xs-12{
+	margin-bottom: 25px;
 }
