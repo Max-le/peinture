@@ -12,4 +12,4 @@ Outils utilisés :
 * Framework CSS Bootstrap
 * Framewrok javasctipt : jQuery
 * Google Fonts
-* Google analytics
+* Google analytics ( bientôt )
