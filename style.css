@@ -27,12 +27,15 @@ h1 {
 	margin-bottom: 1px;
 
 }
-@media (max-width: 375px) {
-	h1 {
+@media (max-width: 700px) {
+	 h1 {
+		 font-size: 50px;
+	 }
+	#main_text {
 		font-size: 40px;
 	}
 	#description{
-		font-size: 12px;
+		font-size: 25px;
 	}
 }
 #soustitre{
