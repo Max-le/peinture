@@ -91,3 +91,9 @@ min-height: 320px;
 .col-xs-12{
 	margin-bottom: 25px;
 }
+#main_text{
+	visibility: hidden;
+}
+#description{
+	visibility: hidden;
+}
