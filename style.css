@@ -92,9 +92,8 @@ min-height: 320px;
 	margin-bottom: 25px;
 }
 #main_text{
-	/*visibility: hidden;*/
-	display: none;
+opacity: 0.1;
 }
 #description{
-	/*visibility: hidden;*/
-	display: none;}
+opacity: 0.1;
+}
