@@ -11,7 +11,7 @@ $("#hello").ready(function() {
 console.log("Jumbotron ready !");
 
 $( "#hello" ).fadeIn(2000);
-$("#main_text").delay(1800).show();
-$("#description").delay(3500).show();
+$("#main_text").delay(1800).fadeTo(2000,1);
+$("#description").delay(3500).fadeTo(2000,1);
 
 });
