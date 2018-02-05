@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 .container {
-	background-color: #BBA284 ;
+	background-color:   #c0a88c
+
+ ;
 	width: auto;
 }
 body {
-		background-color: #BBA284;
+		background-color:   #c0a88c;
 }
 p {
 	font-family: 'Montserrat', serif;
