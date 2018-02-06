@@ -75,6 +75,10 @@ h1 {
 a {
 	color: #3a3a3a;
 }
+#ecole{
+	color:  #595959;
+	text-decoration: underline;
+} 
 .mail-col{
 	margin-bottom: 35px;
 }
