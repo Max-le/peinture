@@ -103,3 +103,9 @@ opacity: 0;
 #description{
 opacity: 0;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
